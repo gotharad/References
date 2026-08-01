@@ -1,1 +1,29 @@
+References:
 
+1. Bernabeu E, Canela-Xandri O, Rawlik K, et al. Sex differences in genetic architecture in the UK Biobank. Nat Genet 2021; 53: 1283–1289.
+
+2. 	Boyle EA, Li YI, Pritchard JK. An Expanded View of Complex Traits: From Polygenic to Omnigenic. Cell 2017; 169: 1177–1186.
+
+3. 	Domingue BW, Trejo S, Armstrong-Carter E, et al. Interactions between Polygenic Scores and Environments: Methodological and Conceptual Challenges. Sociological Science 2020; 7: 465–486.
+
+4. 	Li J, Li X, Zhang S, et al. Gene-Environment Interaction in the Era of Precision Medicine. Cell 2019; 177: 38–44.
+
+5. 	Mbatchou J, Barnard L, Backman J, et al. Computationally efficient whole-genome regression for quantitative and binary traits. Nat Genet 2021; 53: 1097–1103.
+
+6. 	Miao J, Song G, Wu Y, et al. Reimagining Gene-Environment Interaction Analysis for Human Complex Traits. bioRxiv. Epub ahead of print 2022. DOI: 10.1101/2022.12.11.519973.
+
+7. 	Miao J, Wu Y, Lu Q. Statistical methods for gene-environment interaction analysis. Wiley Interdiscip Rev Comput Stat 2024; 16: e1635.
+
+8. 	Zhong W, Chhibber A, Luo L, et al. A fast and powerful linear mixed model approach for genotype-environment interaction tests in large-scale GWAS. Brief Bioinform 2023; 24: bbac547.
+
+9. 	Wolf BJ, Hill EG, Slate EH. Logic Forest: an ensemble classifier for discovering logical combinations of binary markers. Bioinformatics 2010; 26: 2183.
+
+10. Ruczinski I, Kooperberg C, LeBlanc M. Logic Regression. Journal of Computational and Graphical Statistics 2003; 12: 475–511.
+
+11. Schwender H, Ickstadt K. Identification of SNP interactions using logic regression. Biostatistics 2008; 9: 187–198.
+
+12. Moore BJ, White S, Washington R, et al. Identifying Increased Risk of Readmission and In-hospital Mortality Using Hospital Administrative Data: The AHRQ Elixhauser Comorbidity Index. Med Care 2017; 55: 698–705.
+
+13. Rural-Urban Continuum Codes - Documentation | Economic Research Service, https://www.ers.usda.gov/data-products/rural-urban-continuum-codes/documentation (accessed 13 November 2025).
+
+14. CDC. Social Vulnerability Index. Place and Health - Geospatial Research, Analysis, and Services Program (GRASP), https://www.atsdr.cdc.gov/place-health/php/svi/index.html (2024, accessed 15 November 2024).
